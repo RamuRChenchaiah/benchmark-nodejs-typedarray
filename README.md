@@ -24,3 +24,12 @@ TypedArrays are good if you want to allocate a long-living array with a certain 
 
 Regular arrays are better if you want to create temporary arrays often.
 ```
+
+## Test Results:
+
+https://github.com/RamuRChenchaiah/benchmark-nodejs-typedarray/blob/master/test-results/array-Vs-TypedArray.PNG?raw=true
+
+## Machine details:
+8GB RAM
+
+https://github.com/RamuRChenchaiah/benchmark-nodejs-typedarray/blob/master/test-results/machine-details.PNG?raw=true
